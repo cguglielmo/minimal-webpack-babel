@@ -1,5 +1,5 @@
 export class HelloJs {
     say() {
-        coaaansole.log('Hello!!');
+        console.log('Hello!!');
     }
 }
